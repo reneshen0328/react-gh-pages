@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Third time the charm??????
+          Let's see if this work after deleting the package-lock file
         </p>
         <a
           className="App-link"
